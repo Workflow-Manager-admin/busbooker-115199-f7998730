@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/busbooker-115199-f7998730/bus_booking_frontend"
+}
